@@ -45,7 +45,7 @@ class Footer extends StatelessWidget {
             Align(
                 child: Text(
               'Have an account ?',
-              style: TextStyle(color: Colors.black26, fontSize: 18),
+              style: TextStyle(color: Colors.black38, fontSize: 18),
             )),
             Align(
                 child: Text(
